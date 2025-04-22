@@ -2,7 +2,7 @@ Trabalho: Criar CRUD com Laravel
 Requisitos
 PHP 8.2 ou superior
 Composer
-GIT
+
 Como rodar o projeto baixado
 
 Alterar no arquivo .env as credenciais do banco de dados
