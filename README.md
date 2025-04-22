@@ -3,18 +3,16 @@ Requisitos
 PHP 8.2 ou superior
 Composer
 
-Como rodar o projeto baixado
-
+Como rodar o projeto baixado:
 Alterar no arquivo .env as credenciais do banco de dados
 
-Instalar as dependências do PHP
-
+Instalar as dependências do PHP:
 composer install
 
-Executar as migration
+Executar as migration:
 php artisan migrate
 
-Executar o codigo
+Executar o codigo:
 php artisan serve
 
 Acessar o conteúdo padrão do Laravel
